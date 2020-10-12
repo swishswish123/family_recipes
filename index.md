@@ -1,4 +1,4 @@
-# Family secret recipes
+# Aure's secret recipes
 
 set of recipes given by my grandma
 
